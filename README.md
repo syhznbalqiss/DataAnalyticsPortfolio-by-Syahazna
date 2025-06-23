@@ -1,7 +1,23 @@
 # My Data Analytics Portfolio
 Welcome! I'm Balqis and these are my portfolio projects:
 
-# 1. Indonesia Tourism 🌴
+# 1. London Bike Rides 🚲
+**Tools used:** Python, Tableau | **🔗 GitHub Repository:** [London Bike Rides](https://github.com/syhznbalqiis/London-Bike-Rides) | **📈 Tableau Dashbard:** [London Bike Rides Visualizations](https://public.tableau.com/views/LondonBikeRidesProject_17448649553330/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+### Overview 👀
+
+### Dataset 📂
+- **Source:** https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset?resource=download 
+- **Description:** The data is acquired from 3 sources:
+  - Https://cycling.data.tfl.gov.uk/ 'Contains OS data © Crown copyright and database rights 2016' and Geomni UK Map data © and database rights [2019] 'Powered by TfL Open Data'
+  - freemeteo.com - weather data
+  - https://www.gov.uk/bank-holidays
+From 1/1/2015 to 31/12/2016
+The data from cycling dataset is grouped by "Start time", this represent the count of new bike shares grouped by hour. The long duration shares are not taken in the count.
+- **Cleaning Process:**
+
+
+# 2. Indonesia Tourism 🌴
 **Tools used:** Python, Tableau | **🔗 GitHub Repository:** [Indonesia Tourism](https://github.com/syhznbalqiis/Indonesia-Tourism)
 
 ### Overview 👀
@@ -44,4 +60,7 @@ Welcome! I'm Balqis and these are my portfolio projects:
 
 ✔️ The Amusement Park category is the most in number in Yogyakarta
 
-####
+#### 📊 Summary Statistics
+
+#### 📈 Trends and Visualization
+
